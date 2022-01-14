@@ -1,0 +1,36 @@
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Library.accdb
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Kursovoi_proekt.exe.config
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Kursovoi_proekt.exe
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Kursovoi_proekt.pdb
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.csprojAssemblyReference.cache
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Form1.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Author.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Books.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Book_give.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.New_reader.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Properties.Resources.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Publisher.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Readers.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Ticket.resources
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.csproj.GenerateResource.cache
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.csproj.CoreCompileInputs.cache
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.exe
+D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.pdb
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Library.accdb
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Kursovoi_proekt.exe.config
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Kursovoi_proekt.exe
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\bin\Release\Kursovoi_proekt.pdb
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.csproj.AssemblyReference.cache
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Form1.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Author.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Books.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Book_give.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.New_reader.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Properties.Resources.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Publisher.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Readers.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.Ticket.resources
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.csproj.GenerateResource.cache
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.csproj.CoreCompileInputs.cache
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.exe
+D:\Stud\2 курс\Базы данных\Курсач\Kursovoi_proekt\obj\Release\Kursovoi_proekt.pdb

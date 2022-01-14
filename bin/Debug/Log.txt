@@ -1,0 +1,12 @@
+Не выбрана строка. Исключение System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.Collections.ArrayList.get_Item(Int32 index)
+   в System.Windows.Forms.DataGridViewSelectedRowCollection.get_Item(Int32 index)
+   в Kursovoi_proekt.Ticket.Ticket_Load(Object sender, EventArgs e) в D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\Form_table\Ticket.cs:строка 28
+
+Неверный формат ввода данных. Исключение System.FormatException: Входная строка имела неверный формат.
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Convert.ToInt32(String value)
+   в Kursovoi_proekt.New_reader.Rd_add_Click(Object sender, EventArgs e) в D:\lliri\Desktop\Stud\Базы данных\Курсач\Kursovoi_proekt\Form_table\New_reader.cs:строка 55
+
